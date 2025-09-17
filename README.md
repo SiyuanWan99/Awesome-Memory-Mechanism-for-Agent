@@ -64,7 +64,7 @@ If you find this repository helpful, please cite it or star the repo ⭐️.
 ## :star_struck: Review Paper
 | Title | Author | Organization | Time | J/C | KeyWord | Category | Link|
 |----------|------|------|------|---------------|--------|------|--------|
-|  | Smith J., Lee K. | MIT, Stanford | 2024 | IEEE Transactions on Neural Networks and Learning Systems | Memory-Augmented NN, Agent, Reinforcement Learning | Parametric + Non-Parametric Memory | [PDF](https://arxiv.org/abs/1410.5401)
+| A Survey on the Memory Mechanism of Large Language Model based Agents | Zeyu Zhang | Renmin University of China | 2024 | Arxiv | Memory-Augmented NN, Agentg | Parametric | [PDF](https://arxiv.org/abs/2404.13501)
 |  | Zhang Y., Müller H. | Tsinghua University, ETH Zürich | 2023 | Artificial Intelligence Review | Episodic Memory, Semantic Memory, Multi-Agent | Episodic + Semantic Memory |
 |  | Kumar R., Chen L. | Google DeepMind, Peking University | 2025 | ACL (Findings) | Working Memory, LLM, KV-Cache, Reasoning | Working Memory |
 |  | Wang X., Brown T. | CAS, University of Oxford | 2024 | ACM Computing Surveys (CSUR) | Knowledge Graph, Long-Term Memory, Agent | Semantic / Knowledge Graph Memory |
