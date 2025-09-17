@@ -3,8 +3,7 @@ The Memory-Mechanism in Agent Field can be devided to different kinds of memeory
 
 - **Parametric Memory**  :zap:
 - 
-  Stored inside the model parameters (e.g., weights of neural networks).  
-  Used for long-term knowledge learned during training.
+  Stored inside the model parameters (e.g., weights of neural networks). Used for long-term knowledge learned during training.
 
 - **Non-Parametric Memory**  :zap:
 - 
@@ -34,8 +33,7 @@ The Memory-Mechanism in Agent Field can be devided to different kinds of memeory
 ---
 
 ## :books: Purpose of This Repository
-This repository is a collection of academic papers, surveys, and implementations about **memory mechanisms in intelligent agents**.  
-It aims to help researchers and practitioners quickly locate resources on how agents **store, recall, and utilize memory** for reasoning and decision-making.
+This repository is a collection of academic papers, surveys, and implementations about **memory mechanisms in intelligent agents**. It aims to help researchers and practitioners quickly locate resources on how agents **store, recall, and utilize memory** for reasoning and decision-making.
 
 ---
 
