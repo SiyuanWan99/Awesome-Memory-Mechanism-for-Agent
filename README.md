@@ -75,52 +75,48 @@ If you find this repository helpful, please cite it or star the repo ⭐️.
 ## :gear: Parametric Memory
 | :pencil2: Author(s) | :newspaper: Journal / Venue | :link: Paper Link | :memo: Notes |
 |---------------------|-----------------------------|-------------------|--------------|
-| [To Fill]           | [To Fill]                  | [To Fill]         | [To Fill]    |
-| [To Fill]           | [To Fill]                  | [To Fill]         | [To Fill]    |
+|            |                  |          |     |
+|           |                 |          |    |
 
 ---
 
 ## :file_cabinet: Non-Parametric Memory
 | :pencil2: Author(s) | :newspaper: Journal / Venue | :link: Paper Link | :memo: Notes |
 |---------------------|-----------------------------|-------------------|--------------|
-| [To Fill]           | [To Fill]                  | [To Fill]         | [To Fill]    |
-| [To Fill]           | [To Fill]                  | [To Fill]         | [To Fill]    |
+|          |                  |          |    |
+|            |                  |          |     |
 
 ---
 
 ## :hourglass_flowing_sand: Working Memory (Short-Term)
 | :pencil2: Author(s) | :newspaper: Journal / Venue | :link: Paper Link | :memo: Notes |
 |---------------------|-----------------------------|-------------------|--------------|
-| [To Fill]           | [To Fill]                  | [To Fill]         | [To Fill]    |
-| [To Fill]           | [To Fill]                  | [To Fill]         | [To Fill]    |
+|           |               |         |     |
+|            |                 |         |     |
 
 ---
 
 ## :spiral_calendar: Episodic Memory
 | :pencil2: Author(s) | :newspaper: Journal / Venue | :link: Paper Link | :memo: Notes |
 |---------------------|-----------------------------|-------------------|--------------|
-| [To Fill]           | [To Fill]                  | [To Fill]         | [To Fill]    |
-| [To Fill]           | [To Fill]                  | [To Fill]         | [To Fill]    |
+|            |                   |          |     |
+|            |                   |          |     |
 
 ---
 
 ## :world_map: Semantic / Knowledge Graph Memory
 | :pencil2: Author(s) | :newspaper: Journal / Venue | :link: Paper Link | :memo: Notes |
 |---------------------|-----------------------------|-------------------|--------------|
-| [To Fill]           | [To Fill]                  | [To Fill]         | [To Fill]    |
-| [To Fill]           | [To Fill]                  | [To Fill]         | [To Fill]    |
+|            |                   |         |     |
+|            |                   |         |     |
 
 ---
 
 ## :busts_in_silhouette: Personal vs. System Memory
 | :pencil2: Author(s) | :newspaper: Journal / Venue | :link: Paper Link | :memo: Notes |
 |---------------------|-----------------------------|-------------------|--------------|
-| [To Fill]           | [To Fill]                  | [To Fill]         | [To Fill]    |
-| [To Fill]           | [To Fill]                  | [To Fill]         | [To Fill]    |
-
-
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+|            |                   |          |     |
+|            |                   |          |    |
+s
 
 
