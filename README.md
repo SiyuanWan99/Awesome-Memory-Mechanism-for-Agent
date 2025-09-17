@@ -61,6 +61,8 @@ If you find this repository helpful, please cite it or star the repo ⭐️.
 > Please fill in **Author / Journal / Link** later.  
 
 ---
+## 🤩: Review Paper
+
 
 ## :gear: Parametric Memory
 | :pencil2: Author(s) | :newspaper: Journal / Venue | :link: Paper Link | :memo: Notes |
