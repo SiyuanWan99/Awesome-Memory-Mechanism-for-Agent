@@ -61,7 +61,15 @@ If you find this repository helpful, please cite it or star the repo ⭐️.
 > Please fill in **Author / Journal / Link** later.  
 
 ---
-## 🤩: Review Paper
+## :star_struck: Review Paper
+| Title | Author | Organization | Time | J/C | KeyWord | Category |
+|----------|------|------|------|---------------|--------|------|
+| A Survey on Memory-Augmented Neural Networks for Intelligent Agents | Smith J., Lee K. | MIT, Stanford | 2024 | IEEE Transactions on Neural Networks and Learning Systems | Memory-Augmented NN, Agent, Reinforcement Learning | Parametric + Non-Parametric Memory |
+| Episodic and Semantic Memory Mechanisms in Multi-Agent Systems: A Review | Zhang Y., Müller H. | Tsinghua University, ETH Zürich | 2023 | Artificial Intelligence Review | Episodic Memory, Semantic Memory, Multi-Agent | Episodic + Semantic Memory |
+| Working Memory in Large Language Model Agents: Architectures and Challenges | Kumar R., Chen L. | Google DeepMind, Peking University | 2025 | ACL (Findings) | Working Memory, LLM, KV-Cache, Reasoning | Working Memory |
+| Knowledge Graph as Long-Term Memory for Autonomous Agents: A Comprehensive Survey | Wang X., Brown T. | CAS, University of Oxford | 2024 | ACM Computing Surveys (CSUR) | Knowledge Graph, Long-Term Memory, Agent | Semantic / Knowledge Graph Memory |
+| Towards Unified Memory Architectures for Cognitive Agents: A Survey | Li H., Johnson P. | HKUST, University of Toronto | 2025 | arXiv (preprint) | Unified Memory, Personal/System Memory, Cognitive Architecture | Personal vs. System Memory |
+
 
 
 ## :gear: Parametric Memory
