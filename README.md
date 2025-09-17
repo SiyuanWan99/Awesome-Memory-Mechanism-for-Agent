@@ -1,7 +1,7 @@
 # :robot::brain: Memory-Mechanism in Agent Field / Remote Sensing Agent  
 The Memory-Mechanism in Agent Field can be devided to different kinds of memeory.\\\:zap:
 
-- **Parametric Memory**  :zap:
+-- **Parametric Memory**  :zap:
 - 
   Stored inside the model parameters (e.g., weights of neural networks). Used for long-term knowledge learned during training.
 
