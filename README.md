@@ -1,5 +1,5 @@
 # :robot::brain: Memory-Mechanism in Agent Field / Remote Sensing Agent  
-The Memory-Mechanism in Agent Field can be devided to different kinds of memeory.\\\:zap:
+The Memory-Mechanism in Agent Field can be devided to different kinds of memeory.
 
 -- **Parametric Memory**  :zap:
 - 
@@ -62,9 +62,9 @@ If you find this repository helpful, please cite it or star the repo ⭐️.
 
 ---
 ## :star_struck: Review Paper
-| Title | Author | Organization | Time | J/C | KeyWord | Category |
-|----------|------|------|------|---------------|--------|------|
-| A Survey on Memory-Augmented Neural Networks for Intelligent Agents | Smith J., Lee K. | MIT, Stanford | 2024 | IEEE Transactions on Neural Networks and Learning Systems | Memory-Augmented NN, Agent, Reinforcement Learning | Parametric + Non-Parametric Memory |
+| Title | Author | Organization | Time | J/C | KeyWord | Category | Link|
+|----------|------|------|------|---------------|--------|------|--------|
+| A Survey on Memory-Augmented Neural Networks for Intelligent Agents | Smith J., Lee K. | MIT, Stanford | 2024 | IEEE Transactions on Neural Networks and Learning Systems | Memory-Augmented NN, Agent, Reinforcement Learning | Parametric + Non-Parametric Memory | [PDF](https://arxiv.org/abs/1410.5401)
 | Episodic and Semantic Memory Mechanisms in Multi-Agent Systems: A Review | Zhang Y., Müller H. | Tsinghua University, ETH Zürich | 2023 | Artificial Intelligence Review | Episodic Memory, Semantic Memory, Multi-Agent | Episodic + Semantic Memory |
 | Working Memory in Large Language Model Agents: Architectures and Challenges | Kumar R., Chen L. | Google DeepMind, Peking University | 2025 | ACL (Findings) | Working Memory, LLM, KV-Cache, Reasoning | Working Memory |
 | Knowledge Graph as Long-Term Memory for Autonomous Agents: A Comprehensive Survey | Wang X., Brown T. | CAS, University of Oxford | 2024 | ACM Computing Surveys (CSUR) | Knowledge Graph, Long-Term Memory, Agent | Semantic / Knowledge Graph Memory |
