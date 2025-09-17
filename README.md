@@ -1,4 +1,4 @@
-# :robot::brain: Memory-Mechanism in Agent Field/RemoteSensingAgent  
+# :robot::brain: Memory-Mechanism in Agent Field / Remote Sensing Agent  
 The Memory-Mechanism in Agent Field can be devided to different kinds of memeory.\
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
