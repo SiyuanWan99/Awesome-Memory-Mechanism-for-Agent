@@ -38,17 +38,17 @@ This repository is a collection of academic papers, surveys, and implementations
 ---
 
 ## :rocket: How to Contribute
-- Add links to new papers (arXiv, conferences, journals)  
+- Add contents of new papers follow the table line by line (arXiv, conferences, journals)  
 - Share open-source implementations  
 - Summarize novel memory mechanisms  
 
 ---
 
 ## :sparkles: Example Papers
-- “Neural Turing Machines” (DeepMind, 2014)  
+- “Neural Turing Machines”  
 - “Memory-Augmented Neural Networks”  
 - “Retrieval-Augmented Generation (RAG)”  
-- “Reflexion / ReAct / Agent Memory Frameworks (2023–2025)”  
+- “Reflexion / ReAct / Agent Memory Frameworks”  
 
 ---
 
