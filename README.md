@@ -1,27 +1,27 @@
 # :robot::brain: Memory-Mechanism in Agent Field / Remote Sensing Agent  
-The Memory-Mechanism in Agent Field can be devided to different kinds of memeory.\
+The Memory-Mechanism in Agent Field can be devided to different kinds of memeory.\\\:zap:
 
-**Parametric Memory**  
+- **Parametric Memory**  :zap:
   Stored inside the model parameters (e.g., weights of neural networks).  
   Used for long-term knowledge learned during training.
 
-- **Non-Parametric Memory**  
+- **Non-Parametric Memory**  :zap:
   External memory components that can be queried dynamically.  
   Examples: key-value stores, retrieval databases, vector indices.
 
-- **Working Memory (Short-Term Memory)**  
+- **Working Memory (Short-Term Memory)**  :zap:
   Temporary storage during task execution, like KV-Cache in transformers.  
   Keeps recent context for reasoning and decision-making.
 
-- **Episodic Memory**  
+- **Episodic Memory**  :zap:
   Stores agent’s past experiences or trajectories.  
   Useful for reflection, meta-learning, and long-term adaptation.
 
-- **Semantic / Knowledge Graph Memory**  
+- **Semantic / Knowledge Graph Memory**  :zap:
   Structured memory in the form of graphs or databases.  
   Helps encode relationships and facts for reasoning.
 
-- **Personal vs. System Memory**  
+- **Personal vs. System Memory**  :zap:
   - *Personal memory*: specific to one agent (preferences, history).  
   - *System memory*: shared across multiple agents or the environment.
 
