@@ -3,9 +3,8 @@ The Memory-Mechanism in Agent Field can be devided to different kinds of memeory
 # LLM Agents Papers
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/SiyuanWan99/Memory-Mechanism)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/license/MIT)
 ![Last Commit](https://img.shields.io/github/last-commit/SiyuanWan99/Memory-Mechanism)
-![Last Commit Month]()
 
 Must-read Papers on Large Language Model Agents.
 
