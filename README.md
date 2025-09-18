@@ -1,5 +1,14 @@
 # :robot::brain: Memory-Mechanism for Agent
 The Memory-Mechanism in Agent Field can be devided to different kinds of memeory.
+# LLM Agents Papers
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Last Commit](https://img.shields.io/github/last-commit/SiyuanWan99/Memory-Mechanism)
+![Last Commit Month](https://img.shields.io/date/1661990400?label=last%20commit&color=brightgreen)
+
+Must-read Papers on Large Language Model Agents.
+
 
 -- **Parametric Memory**  :zap:
 - 
