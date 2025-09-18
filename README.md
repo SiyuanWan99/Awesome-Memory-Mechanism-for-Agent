@@ -11,7 +11,7 @@ The repo provides a collection of **research papers on memory mechanisms for int
 
 [![Made with ❤️ at BUPT IntelliSense](https://img.shields.io/badge/Made%20with%E2%9D%A4%EF%B8%8F-BUPT%20IntelliSense-red.svg)](https://github.com/IntelliSensing)
 
-👋 Welcome to the **IntelliSense-Group @ Beijing University of Posts and Telecommunications (BUPT)** !!!  
+👋 Welcome to the **IntelliSense-Group @ Beijing University of Posts and Telecommunications (BUPT)** 🚀🚀  
 ❤  We are a research group exploring the intersection of **remote sensing, intelligent agents**.  
 📚 Our repositories aim to serve as knowledge bases — mixing paper lists, research projects, and hands-on demos for curious minds. 🚀
 
