@@ -1,4 +1,4 @@
-# :robot::brain: Memory-Mechanism in Agent Field / Remote Sensing Agent  
+# :robot::brain: Memory-Mechanism for Agent
 The Memory-Mechanism in Agent Field can be devided to different kinds of memeory.
 
 -- **Parametric Memory**  :zap:
