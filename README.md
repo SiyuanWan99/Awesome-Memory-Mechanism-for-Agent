@@ -61,8 +61,8 @@ If you find this repository helpful, please cite it or star the repo ⭐️.
 ## :star_struck: Review Paper
 | Title | Author | Organization | Time | J/C | KeyWord | Category | Link|
 |----------|------|------|------|---------------|--------|------|--------|
-| A Survey on the Memory Mechanism of Large Language Model based Agents | Zeyu Zhang | Renmin University of China | 2024 | Arxiv | Memory-Augmented NN, Agentg | Parametric | [PDF](https://arxiv.org/abs/2404.13501)
-|  |  | Tsinghua University, ETH Zürich | 2023 | Artificial Intelligence Review | Episodic Memory, Semantic Memory, Multi-Agent | Episodic + Semantic Memory |
+| A Survey on the Memory Mechanism of Large Language Model based Agents | Zeyu Zhang | Renmin University of China | 2024 | Arxiv | Memory-Augmented NN, Agentg | Parametric | [PDF](https://arxiv.org/abs/2404.13501)|
+| A Survey on LLM-based Multi-Agent Systems: Workflow, Applications, and Challenges | Xinyi Li | Wuhan University, China | 2024 | Vicinagearth, Springer  | Episodic Memory, Semantic Memory, Multi-Agent | [PDF](https://link.springer.com/article/10.1007/s44336-024-00009-2?utm_source=chatgpt.com#auth-Xinyi-Li-Aff1)|
 |  |  | Google DeepMind, Peking University | 2025 | ACL (Findings) | Working Memory, LLM, KV-Cache, Reasoning | Working Memory |
 |  |  | CAS, University of Oxford | 2024 | ACM Computing Surveys (CSUR) | Knowledge Graph, Long-Term Memory, Agent | Semantic / Knowledge Graph Memory |
 |  |  | HKUST, University of Toronto | 2025 | arXiv (preprint) | Unified Memory, Personal/System Memory, Cognitive Architecture | Personal vs. System Memory |
