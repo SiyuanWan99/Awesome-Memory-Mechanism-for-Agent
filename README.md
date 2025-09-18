@@ -64,7 +64,6 @@ If you find this repository helpful, please cite it or star the repo ⭐️.
 | A Survey on LLM-based Multi-Agent Systems: Workflow, Applications, and Challenges | Xinyi Li | Wuhan University, China | 2024 | Vicinagearth, Springer  | Episodic Memory, Semantic Memory, Multi-Agent |All |[PDF](https://link.springer.com/article/10.1007/s44336-024-00009-2?utm_source=chatgpt.com#auth-Xinyi-Li-Aff1)|
 | From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs | Yaxiong Wu | Huawei Noah’s Ark Lab | 2025 | Arxiv | Memory Mechanisms | Memory Mechanisms in the Era of LLMs | [PDF](https://arxiv.org/abs/2504.15965)|
 | On the Structural Memory of LLM Agents | Ruihong Zeng | University of Glasgow | 2024 | Arxiv | Structural Memory | Structural Memory | [PDF](https://arxiv.org/abs/2412.15266)|
-|  |  | HKUST, University of Toronto | 2025 | arXiv (preprint) | Unified Memory, Personal/System Memory, Cognitive Architecture | Personal vs. System Memory |
 
 
 
