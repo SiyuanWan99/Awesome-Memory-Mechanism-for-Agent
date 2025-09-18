@@ -43,7 +43,7 @@ We believe that **science grows when knowledge is open**. Everyone is welcome to
   Temporary storage during task execution, like KV-Cache in transformers.  
   Keeps recent context for reasoning and decision-making.
 
--- **Episodic Memory**  :zap:
+-- **Episodic Memory (Long-Term Memory)**  :zap:
 - 
   Stores agent’s past experiences or trajectories.  
   Useful for reflection, meta-learning, and long-term adaptation.
