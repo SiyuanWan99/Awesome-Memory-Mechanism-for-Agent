@@ -7,7 +7,7 @@ The repo provides a collection of **research papers on memory mechanisms for int
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/license/MIT)
 ![Last Commit](https://img.shields.io/github/last-commit/SiyuanWan99/Memory-Mechanism)
 
-## :star_struck::star_struck::star_struck: IntelliSense-Group @ BUPT [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## :star_struck::star_struck::star_struck: IntelliSense-Group @ BUPT 
 
 [![Made with ❤️ at BUPT IntelliSense](https://img.shields.io/badge/Made%20with%E2%9D%A4%EF%B8%8F-BUPT%20IntelliSense-red.svg)](https://github.com/IntelliSensing)
 
