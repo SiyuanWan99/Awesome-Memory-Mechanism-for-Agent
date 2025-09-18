@@ -1,7 +1,6 @@
 # :robot::brain: Awesome Memory-Mechanism for Agent
 The Memory-Mechanism in Agent Field can be devided to different kinds of memeory.
 The repo provides a collection of **research papers on memory mechanisms for intelligent agents**.  
-# LLM Agents Papers
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/SiyuanWan99/Memory-Mechanism)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/license/MIT)
