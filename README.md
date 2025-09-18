@@ -54,8 +54,7 @@ If you find this repository helpful, please cite it or star the repo ⭐️.
 
 # :brain: Memory Mechanisms in Agent Field — Paper Collection
 
-> Below is a structured collection of papers categorized by memory mechanism.  
-> Please fill in **Author / Journal / Link** later.  
+> Below is a structured collection of papers categorized by memory mechanism.   
 
 ---
 ## :star_struck: Review Paper
