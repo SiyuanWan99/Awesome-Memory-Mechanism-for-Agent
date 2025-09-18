@@ -121,7 +121,7 @@ If you find this repository helpful, please cite it or star the repo ⭐️.
 | Title | Author | Organization | Time | J/C | KeyWord | Category | Link|
 |-------------|-----------|---------------------|------|---------------|-------------|--------|-------|
 |Human-inspired Perspectives: A Survey on AI Long-term Memory| Zihong He  | X-Intelligence Labs | 2025 | Arxiv | Long-term Memory， | Long-term Memory | [PDF](https://arxiv.org/abs/2411.00489)|
-|RS-RAG| Congcong Wen  | University of Science and Technology of China | 2025 | Arxiv |RemoteSensing，RAG， | Non-Parametric | [PDF](https://arxiv.org/abs/2504.04988)| 
+|RS-RAG:Bridging Remote Sensing Imagery and  Comprehensive Knowledge with a Multi-Modal  Dataset and Retrieval-Augmented Generation Model| Congcong Wen  | University of Science and Technology of China | 2025 | Arxiv |RemoteSensing，RAG， | Non-Parametric | [PDF](https://arxiv.org/abs/2504.04988)| 
 
 
 ---
