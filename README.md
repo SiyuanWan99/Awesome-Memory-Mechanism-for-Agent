@@ -45,10 +45,7 @@ This repository is a collection of academic papers, surveys, and implementations
 ---
 
 ## :sparkles: Example Papers
-- “Neural Turing Machines”  
-- “Memory-Augmented Neural Networks”  
-- “Retrieval-Augmented Generation (RAG)”  
-- “Reflexion / ReAct / Agent Memory Frameworks”  
+- | A Survey on the Memory Mechanism of Large Language Model based Agents | Zeyu Zhang | Renmin University of China | 2024 | Arxiv | Memory-Augmented NN, Agentg | Parametric | [PDF](https://arxiv.org/abs/2404.13501) 
 
 ---
 
