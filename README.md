@@ -7,8 +7,28 @@ The repo provides a collection of **research papers on memory mechanisms for int
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/license/MIT)
 ![Last Commit](https://img.shields.io/github/last-commit/SiyuanWan99/Memory-Mechanism)
 
-## :star_struck::star_struck::star_struck: Welcome
-[![Join](https://awesome.re/badge.svg)](https://github.com/SiyuanWan99/Memory-Mechanism)
+## :star_struck::star_struck::star_struck: IntelliSense-Group @ BUPT [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+[![Made with ❤️ at BUPT IntelliSense](https://img.shields.io/badge/Made%20with%E2%9D%A4%EF%B8%8F-BUPT%20IntelliSense-red.svg)](https://github.com/IntelliSense-Group)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/IntelliSense-Group)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+👋 Welcome to the **IntelliSense-Group @ Beijing University of Posts and Telecommunications (BUPT)**!  
+We are a research group exploring the intersection of **remote sensing, intelligent agents**.  
+Our repositories aim to serve as knowledge bases — mixing paper lists, research projects, and hands-on demos for curious minds. 🚀
+
+---
+
+## 🌟 What you’ll find here
+- 📚 Curated paper lists and surveys  
+- 🔧 Open-source implementations  
+- 🧪 Demos, benchmarks, and reproducible experiments  
+
+## 🙌 Join us
+Feel free to **star ⭐, fork 🍴** — whether you are here to learn, share, or just explore.  
+We believe that **science grows when knowledge is open**. Everyone is welcome to study, tinker, and contribute!  
+
+---
 
 
 -- **Parametric Memory**  :zap:
