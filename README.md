@@ -7,8 +7,6 @@ The repo provides a collection of **research papers on memory mechanisms for int
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/license/MIT)
 ![Last Commit](https://img.shields.io/github/last-commit/SiyuanWan99/Memory-Mechanism)
 
-Must-read Papers on Large Language Model Agents.
-
 
 -- **Parametric Memory**  :zap:
 - 
