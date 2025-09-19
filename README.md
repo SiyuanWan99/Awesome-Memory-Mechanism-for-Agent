@@ -67,13 +67,14 @@ If you find this repository helpful, please cite it or star the repo ⭐️.
 ### 1) Personal × Non-param × Short → **Working Memory**
 Conversation/task-level context, scratchpads, explicit reasoning traces (CoT), temporary notes, planning sketches.  
 
+**📚 Paper List**
+| Year | Venue | Title | Key Idea | RS Tags | Links |
 
 
 
 ---
 ### 2) Personal × Non-param × Long → **Episodic Memory**
 Cross-session experiences, task logs, reflections/summaries, “episode books.”  
-**RS hint:** paginate by orbit/revisit/target window; store gists; selectively look back when planning or answering.
 
 **📚 Paper List**
 | Year | Venue | Title | Key Idea | RS Tags | Links |
@@ -83,7 +84,6 @@ Cross-session experiences, task logs, reflections/summaries, “episode books.�
 
 ### 3) Personal × Param × Short → **Inference-time Caches**
 KV-cache, adapter/LoRA runtime states, short-horizon router statistics.  
-**RS hint:** on-board KV pruning/sharing under tight compute.
 
 **📚 Paper List**
 | Year | Venue | Title | Key Idea | RS Tags | Links |
@@ -93,7 +93,6 @@ KV-cache, adapter/LoRA runtime states, short-horizon router statistics.
 
 ### 4) Personal × Param × Long → **Semantic Memory**
 Knowledge internalized in parameters: pretraining, continual fine-tuning, knowledge editing.  
-**RS hint:** on-orbit updates, drift correction, incremental skill injection.
 
 **📚 Paper List**
 | Year | Venue | Title | Key Idea | RS Tags | Links |
@@ -103,7 +102,6 @@ Knowledge internalized in parameters: pretraining, continual fine-tuning, knowle
 
 ### 5) System × Non-param × Short → **System-level Intermediates**
 Blackboard/workspace artifacts, transient products from distributed planning/search.  
-**RS hint:** temporary blackboard for multi-satellite coordination.
 
 **📚 Paper List**
 | Year | Venue | Title | Key Idea | RS Tags | Links |
@@ -113,7 +111,6 @@ Blackboard/workspace artifacts, transient products from distributed planning/sea
 
 ### 6) System × Non-param × Long → **Knowledge/Skill Bases**
 RAG/vector stores, knowledge graphs, templates/playbooks, experience repositories & trajectory replay.  
-**RS hint:** scene priors, sensor/platform knowledge, SOPs, anomaly-handling knowledge.
 
 **📚 Paper List**
 | Year | Venue | Title | Key Idea | RS Tags | Links |
@@ -123,7 +120,6 @@ RAG/vector stores, knowledge graphs, templates/playbooks, experience repositorie
 
 ### 7) System × Param × Short → **System-level Inference Caches**
 Shared KV/index caches across agents, short-term router/gating states.  
-**RS hint:** cache consistency/eviction across ground clusters and inter-sat links.
 
 **📚 Paper List**
 | Year | Venue | Title | Key Idea | RS Tags | Links |
@@ -133,7 +129,6 @@ Shared KV/index caches across agents, short-term router/gating states.
 
 ### 8) System × Param × Long → **System-level Parametric Abilities**
 MoE/routing, distilled long-term skills, system-wide capability pools.  
-**RS hint:** expert routing for imaging/downlink/calibration/fusion/detection.
 
 **📚 Paper List**
 | Year | Venue | Title | Key Idea | RS Tags | Links |
