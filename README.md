@@ -63,6 +63,7 @@ Conversation/task-level context, scratchpads, explicit reasoning traces (CoT), t
 <!-- PNS:START -->
 | Year | JC | Title | Key Idea | Keywords | Links |
 |---|---|---|---|---|---|
+| 2024 | arXiv | ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools | GLM model family evolution; tool-augmented capabilities | background, LLM, tools | [PDF](https://arxiv.org/abs/2406.12793) |
 | 2024 | arXiv | DeepSeek-V3 Technical Report | Large-scale MoE LLM with training/serving optimizations | LLM, MoE | [PDF](https://arxiv.org/abs/2412.19437) |
 | 2023 | arXiv | Gemini: A Family of Highly Capable Multimodal Models | Unified multimodal LLM family; strong parametric capabilities | background, LLM, multimodal | [PDF](https://arxiv.org/abs/2312.11805) |
 | 2023 | Anthropic Blog | Introducing Claude | Production deployment of Claude; safety/alignment emphasis | background, LLM, alignment | [PDF](https://www.anthropic.com/index/introducing-claude) · [Project](https://www.anthropic.com) |
