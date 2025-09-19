@@ -6,7 +6,7 @@ pdf: "https://openai.com/blog/chatgpt"
 code: ""
 project: "https://openai.com/blog/chatgpt"
 quadrant: "system_param_long"
-rs_tags: ["background", "LLM"]
+rs_tags: ["background",  "LLM"]
 key_ideas:
   - "Large-scale parametric conversational ability; baseline context for memory discussions"
 notes: "General background reference; not a dedicated memory mechanism paper."
