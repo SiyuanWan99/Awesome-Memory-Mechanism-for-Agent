@@ -1,0 +1,35 @@
+name: Build Index
+
+on:
+  push:
+    branches: [ main ]            
+    paths:
+      - "papers/**.yml"
+      - "scripts/build.py"
+      - "README.md"
+  workflow_dispatch: {}            #手动触发
+
+permissions:
+  contents: write                  #提交 README 变更
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install pyyaml    # pip 安装其它所需要库
+      - run: python scripts/build.py
+      - name: Commit README changes
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: auto-build quadrant tables"
+            git push
+          fi
