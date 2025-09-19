@@ -4,7 +4,7 @@ venue: "OpenAI Blog"
 year: 2022 
 pdf: "https://openai.com/blog/chatgpt"
 code: ""
-project: "https://openai.com/blog/chatgpt"
+project: ""
 quadrant: "personal_nonparam_short"
 rs_tags: ["background",  "LLM"]
 key_ideas:
