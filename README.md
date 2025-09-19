@@ -66,12 +66,12 @@ Conversation/task-level context, scratchpads, explicit reasoning traces (CoT), t
 | 2024 | arXiv | ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools | GLM model family evolution; tool-augmented capabilities | background, LLM, tools | [PDF](https://arxiv.org/abs/2406.12793) |
 | 2024 | arXiv | DeepSeek-V3 Technical Report | Large-scale MoE LLM with training/serving optimizations | LLM, MoE | [PDF](https://arxiv.org/abs/2412.19437) |
 | 2023 | arXiv | Gemini: A Family of Highly Capable Multimodal Models | Unified multimodal LLM family; strong parametric capabilities | background, LLM, multimodal | [PDF](https://arxiv.org/abs/2312.11805) |
-| 2023 | Anthropic Blog | Introducing Claude | Production deployment of Claude; safety/alignment emphasis | background, LLM, alignment | [PDF](https://www.anthropic.com/index/introducing-claude) · [Project](https://www.anthropic.com) |
+| 2023 | Anthropic Blog | Introducing Claude | Production deployment of Claude; safety/alignment emphasis | LLM, alignment | [PDF](https://www.anthropic.com/index/introducing-claude) |
 | 2023 | arXiv | Llama 2: Open Foundation and Fine-Tuned Chat Models | Open foundation + chat models; strong baseline parametric ability | background, LLM, open-source | [PDF](https://arxiv.org/abs/2307.09288) |
 | 2023 | NeurIPS | OpenAssistant Conversations — Democratizing Large Language Model Alignment | Open crowdsourced alignment dataset for chat assistants | alignment, dataset, background | [Code](https://github.com/LAION-AI/Open-Assistant) |
 | 2023 | arXiv | Qwen Technical Report | General-purpose LLM family; pretraining + alignment (SFT/RLHF) | background, LLM, bilingual | [PDF](https://arxiv.org/abs/2309.16609) |
 | 2022 | OpenAI | Introducing ChatGPT | Large-scale parametric conversational ability; baseline context for memory discussions | LLM | [PDF](https://openai.com/blog/chatgpt) |
-| 2022 | arXiv | Pangu-Bot: Efficient Generative Dialogue Pre-training from Pre-trained Language Model | Dialogue-oriented pretraining built on pretrained LMs | background, dialogue, pretraining | [PDF](https://arxiv.org/abs/2203.17090) |
+| 2022 | arXiv | Pangu-Bot: Efficient Generative Dialogue Pre-training from Pre-trained Language Model | Dialogue-oriented pretraining built on pretrained LMs | dialogue, pretraining | [PDF](https://arxiv.org/abs/2203.17090) |
 <!-- PNS:END -->
 
 ---
