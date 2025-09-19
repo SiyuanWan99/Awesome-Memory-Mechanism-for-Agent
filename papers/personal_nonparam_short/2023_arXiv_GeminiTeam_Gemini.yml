@@ -6,6 +6,6 @@ pdf: "https://arxiv.org/abs/2312.11805"
 code: ""
 project: ""
 quadrant: "personal_nonparam_short"
-Keywords: ["background", "LLM", "multimodal"]
+Keywords: ["LLM", "multimodal"]
 key_ideas:
   - "Unified multimodal LLM family; strong parametric capabilities"
