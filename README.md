@@ -26,6 +26,14 @@ Feel free to **star ⭐, fork 🍴** — whether you are here to learn, share, o
 We believe that **science grows when knowledge is open**. Everyone is welcome to study, tinker, and contribute!  
 
 ---
+---
+## :star_struck: Review Paper
+| Title | Author | Organization | Time | J/C | KeyWord | Category | Link|
+|----------|------|------|------|---------------|--------|------|--------|
+| A Survey on the Memory Mechanism of Large Language Model based Agents  | Zeyu Zhang | Renmin University of China | 2024 | Arxiv | Memory-Augmented NN, Agentg | Parametric | [PDF](https://arxiv.org/abs/2404.13501)|
+| A Survey on LLM-based Multi-Agent Systems: Workflow, Applications, and Challenges | Xinyi Li | Wuhan University, China | 2024 | Vicinagearth, Springer  | Episodic Memory, Semantic Memory, Multi-Agent |All |[PDF](https://link.springer.com/article/10.1007/s44336-024-00009-2?utm_source=chatgpt.com#auth-Xinyi-Li-Aff1)|
+| From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs | Yaxiong Wu | Huawei Noah’s Ark Lab | 2025 | Arxiv | Memory Mechanisms | Memory Mechanisms in the Era of LLMs | [PDF](https://arxiv.org/abs/2504.15965)|
+| On the Structural Memory of LLM Agents | Ruihong Zeng | University of Glasgow | 2024 | Arxiv | Structural Memory | Structural Memory | [PDF](https://arxiv.org/abs/2412.15266)|
 
 
 -- **Parametric Memory**  :zap:
