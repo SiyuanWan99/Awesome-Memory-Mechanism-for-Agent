@@ -35,13 +35,13 @@ def md_link(url, text):
     return f"[{text}]({url})" if url else ""
 
 def render_table(rows):
-    header = "| Year | J/C | Title | Key Idea | Keywords | Links |\n|---|---|---|---|---|---|\n"
+    header = "| Year | JC | Title | Key Idea | Keywords | Links |\n|---|---|---|---|---|---|\n"
     if not rows:
         return header
     lines = [header.strip()]
     for r in rows:
         year = r.get("year","")
-        J/C = r.get("J/C","")
+        JC = r.get("JC","")
         title = r.get("title","")
         key = ", ".join(r.get("key_ideas", [])[:1])
         Keywords = ", ".join(r.get("Keywords", []))
@@ -50,7 +50,7 @@ def render_table(rows):
             md_link(r.get("code"), "Code"),
             md_link(r.get("project"), "Project"),
         ]))
-        lines.append(f"| {year} | {J/C} | {title} | {key} | {Keywords} | {links} |")
+        lines.append(f"| {year} | {JC} | {title} | {key} | {Keywords} | {links} |")
     return "\n".join(lines) + "\n"
 
 def replace_block(text, start, end, block):
