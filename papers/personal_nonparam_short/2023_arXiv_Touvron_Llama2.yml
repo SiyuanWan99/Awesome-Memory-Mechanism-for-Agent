@@ -1,0 +1,11 @@
+title: "Llama 2: Open Foundation and Fine-Tuned Chat Models"
+authors: ["Touvron, Hugo", "et al."]
+JC: "arXiv"
+year: 2023
+pdf: "https://arxiv.org/abs/2307.09288"
+code: ""
+project: ""
+quadrant: "system_param_long"
+Keywords: ["background", "LLM", "open-source"]
+key_ideas:
+  - "Open foundation + chat models; strong baseline parametric ability"
