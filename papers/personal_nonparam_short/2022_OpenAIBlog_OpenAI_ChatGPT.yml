@@ -6,7 +6,7 @@ pdf: "https://openai.com/blog/chatgpt"
 code: ""
 project: ""
 quadrant: "personal_nonparam_short"
-keyword: ["LLM"]
+keywords: ["LLM"]
 key_ideas:
   - "Large-scale parametric conversational ability; baseline context for memory discussions"
 notes: "General background reference; not a dedicated memory mechanism paper."
