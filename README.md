@@ -134,6 +134,7 @@ MoE/routing, distilled long-term skills, system-wide capability pools.
 <!-- SPL:START -->
 | Year | JC | Title | Key Idea | Keywords | Links |
 |---|---|---|---|---|---|
+| 2023 | Anthropic Blog | Introducing Claude | Production deployment of Claude; safety/alignment emphasis | background, LLM, alignment | [PDF](https://www.anthropic.com/index/introducing-claude) · [Project](https://www.anthropic.com) |
 <!-- SPL:END -->
 
 ---
