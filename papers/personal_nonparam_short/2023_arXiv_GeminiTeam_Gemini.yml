@@ -1,0 +1,11 @@
+title: "Gemini: A Family of Highly Capable Multimodal Models"
+authors: ["Gemini Team", "et al."]
+JC: "arXiv"
+year: 2023
+pdf: "https://arxiv.org/abs/2312.11805"
+code: ""
+project: ""
+quadrant: "personal_nonparam_short"
+Keywords: ["background", "LLM", "multimodal"]
+key_ideas:
+  - "Unified multimodal LLM family; strong parametric capabilities"
