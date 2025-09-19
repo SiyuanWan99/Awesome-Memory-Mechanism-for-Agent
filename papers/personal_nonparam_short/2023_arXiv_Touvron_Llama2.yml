@@ -5,7 +5,7 @@ year: 2023
 pdf: "https://arxiv.org/abs/2307.09288"
 code: ""
 project: ""
-quadrant: "system_param_long"
+quadrant: "personal_nonparam_short"
 Keywords: ["background", "LLM", "open-source"]
 key_ideas:
   - "Open foundation + chat models; strong baseline parametric ability"
