@@ -26,44 +26,6 @@ Feel free to **star ⭐, fork 🍴** — whether you are here to learn, share, o
 We believe that **science grows when knowledge is open**. Everyone is welcome to study, tinker, and contribute!  
 
 ---
----
-## :star_struck: Review Paper
-| Title | Author | Organization | Time | J/C | KeyWord | Category | Link|
-|----------|------|------|------|---------------|--------|------|--------|
-| A Survey on the Memory Mechanism of Large Language Model based Agents  | Zeyu Zhang | Renmin University of China | 2024 | Arxiv | Memory-Augmented NN, Agentg | Parametric | [PDF](https://arxiv.org/abs/2404.13501)|
-| A Survey on LLM-based Multi-Agent Systems: Workflow, Applications, and Challenges | Xinyi Li | Wuhan University, China | 2024 | Vicinagearth, Springer  | Episodic Memory, Semantic Memory, Multi-Agent |All |[PDF](https://link.springer.com/article/10.1007/s44336-024-00009-2?utm_source=chatgpt.com#auth-Xinyi-Li-Aff1)|
-| From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs | Yaxiong Wu | Huawei Noah’s Ark Lab | 2025 | Arxiv | Memory Mechanisms | Memory Mechanisms in the Era of LLMs | [PDF](https://arxiv.org/abs/2504.15965)|
-| On the Structural Memory of LLM Agents | Ruihong Zeng | University of Glasgow | 2024 | Arxiv | Structural Memory | Structural Memory | [PDF](https://arxiv.org/abs/2412.15266)|
-
-
--- **Parametric Memory**  :zap:
-- 
-  Stored inside the model parameters (e.g., weights of neural networks). Used for long-term knowledge learned during training.
-
--- **Non-Parametric Memory**  :zap:
-- 
-  External memory components that can be queried dynamically.  
-  Examples: key-value stores, retrieval databases, vector indices.
-
--- **Working Memory (Short-Term Memory)**  :zap:
-- 
-  Temporary storage during task execution, like KV-Cache in transformers.  
-  Keeps recent context for reasoning and decision-making.
-
--- **Episodic Memory (Long-Term Memory)**  :zap:
-- 
-  Stores agent’s past experiences or trajectories.  
-  Useful for reflection, meta-learning, and long-term adaptation.
-
--- **Semantic / Knowledge Graph Memory**  :zap:
-- 
-  Structured memory in the form of graphs or databases.  
-  Helps encode relationships and facts for reasoning.
-
--- **Personal vs. System Memory**  :zap:
-- 
-  - *Personal memory*: specific to one agent (preferences, history).  
-  - *System memory*: shared across multiple agents or the environment.
 
 ---
 
@@ -89,7 +51,7 @@ If you find this repository helpful, please cite it or star the repo ⭐️.
 
 # :brain: Memory Mechanisms in Agent Field — Paper Collection
 
-> Below is a structured collection of papers categorized by memory mechanism.   
+> Below is a structured collection of papers categorized by memory mechanism.
 
 ---
 ## :star_struck: Review Paper
@@ -101,27 +63,80 @@ If you find this repository helpful, please cite it or star the repo ⭐️.
 | On the Structural Memory of LLM Agents | Ruihong Zeng | University of Glasgow | 2024 | Arxiv | Structural Memory | Structural Memory | [PDF](https://arxiv.org/abs/2412.15266)|
 
 
+---
+### 1) Personal × Non-param × Short → **Working Memory**
+Conversation/task-level context, scratchpads, explicit reasoning traces (CoT), temporary notes, planning sketches.  
 
-## :gear: Parametric Memory
-| Title | Author | Organization | Time | J/C | KeyWord | Category | Link|
-|----------|------|------|------|---------------|--------|------|--------|
-|            |                  |          |     |
-|           |                 |          |    |
+
+
+
+---
+### 2) Personal × Non-param × Long → **Episodic Memory**
+Cross-session experiences, task logs, reflections/summaries, “episode books.”  
+**RS hint:** paginate by orbit/revisit/target window; store gists; selectively look back when planning or answering.
+
+**📚 Paper List**
+| Year | Venue | Title | Key Idea | RS Tags | Links |
+
 
 ---
 
-## :file_cabinet: Non-Parametric Memory
-| Title | Author | Organization | Time | J/C | KeyWord | Category | Link|
-|----------|------|------|------|---------------|--------|------|--------|
-|          |                  |          |    |
-|            |                  |          |     |
+### 3) Personal × Param × Short → **Inference-time Caches**
+KV-cache, adapter/LoRA runtime states, short-horizon router statistics.  
+**RS hint:** on-board KV pruning/sharing under tight compute.
+
+**📚 Paper List**
+| Year | Venue | Title | Key Idea | RS Tags | Links |
+
 
 ---
 
-## :hourglass_flowing_sand: Working Memory (Short-Term)
-| Title | Author | Organization | Time | J/C | KeyWord | Category | Link|
-|----------|------|------|------|---------------|--------|------|--------|
-|            |                 |         |     |
+### 4) Personal × Param × Long → **Semantic Memory**
+Knowledge internalized in parameters: pretraining, continual fine-tuning, knowledge editing.  
+**RS hint:** on-orbit updates, drift correction, incremental skill injection.
+
+**📚 Paper List**
+| Year | Venue | Title | Key Idea | RS Tags | Links |
+
+
+---
+
+### 5) System × Non-param × Short → **System-level Intermediates**
+Blackboard/workspace artifacts, transient products from distributed planning/search.  
+**RS hint:** temporary blackboard for multi-satellite coordination.
+
+**📚 Paper List**
+| Year | Venue | Title | Key Idea | RS Tags | Links |
+
+
+---
+
+### 6) System × Non-param × Long → **Knowledge/Skill Bases**
+RAG/vector stores, knowledge graphs, templates/playbooks, experience repositories & trajectory replay.  
+**RS hint:** scene priors, sensor/platform knowledge, SOPs, anomaly-handling knowledge.
+
+**📚 Paper List**
+| Year | Venue | Title | Key Idea | RS Tags | Links |
+
+
+---
+
+### 7) System × Param × Short → **System-level Inference Caches**
+Shared KV/index caches across agents, short-term router/gating states.  
+**RS hint:** cache consistency/eviction across ground clusters and inter-sat links.
+
+**📚 Paper List**
+| Year | Venue | Title | Key Idea | RS Tags | Links |
+
+
+---
+
+### 8) System × Param × Long → **System-level Parametric Abilities**
+MoE/routing, distilled long-term skills, system-wide capability pools.  
+**RS hint:** expert routing for imaging/downlink/calibration/fusion/detection.
+
+**📚 Paper List**
+| Year | Venue | Title | Key Idea | RS Tags | Links |
 
 ---
 
@@ -132,20 +147,4 @@ If you find this repository helpful, please cite it or star the repo ⭐️.
 |RS-RAG:Bridging Remote Sensing Imagery and  Comprehensive Knowledge with a Multi-Modal  Dataset and Retrieval-Augmented Generation Model| Congcong Wen  | University of Science and Technology of China | 2025 | Arxiv |RemoteSensing，RAG， | Non-Parametric | [PDF](https://arxiv.org/abs/2504.04988)| 
 
 ---
-
-## :world_map: Semantic / Knowledge Graph Memory
-| Title | Author | Organization | Time | J/C | KeyWord | Category | Link|
-|----------|------|------|------|---------------|--------|------|--------|
-|            |                   |         |     |
-|            |                   |         |     |
-
----
-
-## :busts_in_silhouette: Personal vs. System Memory
-| Title | Author | Organization | Time | J/C | KeyWord | Category | Link|
-|----------|------|------|------|---------------|--------|------|--------|
-|            |                   |          |     |
-|            |                   |          |    |
-s
-
 
