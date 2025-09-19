@@ -5,7 +5,7 @@ year: 2024
 pdf: "https://arxiv.org/abs/2412.19437"
 code: ""
 project: ""
-quadrant: "personal_param_long"
+quadrant: "personal_nonparam_short"
 rs_tags: ["background", "LLM", "MoE"]
 key_ideas:
   - "Large-scale MoE LLM with training/serving optimizations"
