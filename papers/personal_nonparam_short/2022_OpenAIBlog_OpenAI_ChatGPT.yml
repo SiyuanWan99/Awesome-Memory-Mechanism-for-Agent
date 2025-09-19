@@ -1,12 +1,12 @@
 title: "Introducing ChatGPT"
 authors: ["OpenAI"]
-venue: "OpenAI Blog"
+J/C: "OpenAI Blog"
 year: 2022 
 pdf: "https://openai.com/blog/chatgpt"
 code: ""
 project: ""
 quadrant: "personal_nonparam_short"
-rs_tags: ["background",  "LLM"]
+keyword: ["LLM"]
 key_ideas:
   - "Large-scale parametric conversational ability; baseline context for memory discussions"
 notes: "General background reference; not a dedicated memory mechanism paper."
