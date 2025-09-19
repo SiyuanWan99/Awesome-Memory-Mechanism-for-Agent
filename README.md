@@ -27,8 +27,6 @@ We believe that **science grows when knowledge is open**. Everyone is welcome to
 
 ---
 
----
-
 ## :books: Purpose of This Repository
 This repository is a collection of academic papers, surveys, and implementations about **memory mechanisms in intelligent agents**. It aims to help researchers and practitioners quickly locate resources on how agents **store, recall, and utilize memory** for reasoning and decision-making.
 
