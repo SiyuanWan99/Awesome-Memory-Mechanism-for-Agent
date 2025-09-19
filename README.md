@@ -69,6 +69,7 @@ Conversation/task-level context, scratchpads, explicit reasoning traces (CoT), t
 | 2023 | arXiv | Llama 2: Open Foundation and Fine-Tuned Chat Models | Open foundation + chat models; strong baseline parametric ability | background, LLM, open-source | [PDF](https://arxiv.org/abs/2307.09288) |
 | 2023 | arXiv | Qwen Technical Report | General-purpose LLM family; pretraining + alignment (SFT/RLHF) | background, LLM, bilingual | [PDF](https://arxiv.org/abs/2309.16609) |
 | 2022 | OpenAI | Introducing ChatGPT | Large-scale parametric conversational ability; baseline context for memory discussions | LLM | [PDF](https://openai.com/blog/chatgpt) |
+| 2022 | arXiv | Pangu-Bot: Efficient Generative Dialogue Pre-training from Pre-trained Language Model | Dialogue-oriented pretraining built on pretrained LMs | background, dialogue, pretraining | [PDF](https://arxiv.org/abs/2203.17090) |
 <!-- PNS:END -->
 
 ---
