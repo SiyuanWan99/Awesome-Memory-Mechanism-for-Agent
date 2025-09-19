@@ -57,7 +57,7 @@ If you find this repository helpful, please cite it or star the repo ⭐️.
 
 
 ---
-### 1) Personal × Non-param × Short → **Working Memory**
+###  🚀Personal × Non-param × Short → **Working Memory**
 Conversation/task-level context, scratchpads, explicit reasoning traces (CoT), temporary notes, planning sketches.  
 **📚 Paper List**
 <!-- PNS:START -->
@@ -75,7 +75,7 @@ Conversation/task-level context, scratchpads, explicit reasoning traces (CoT), t
 <!-- PNS:END -->
 
 ---
-### 2) Personal × Non-param × Long → **Episodic Memory**
+### 🚀Personal × Non-param × Long → **Episodic Memory**
 Cross-session experiences, task logs, reflections/summaries, “episode books.”  
 **📚 Paper List**
 <!-- PNL:START -->
@@ -85,7 +85,7 @@ Cross-session experiences, task logs, reflections/summaries, “episode books.�
 
 ---
 
-### 3) Personal × Param × Short → **Inference-time Caches**
+### 🚀Personal × Param × Short → **Inference-time Caches**
 KV-cache, adapter/LoRA runtime states, short-horizon router statistics. 
 **📚 Paper List**
 <!-- PPS:START -->
@@ -95,7 +95,7 @@ KV-cache, adapter/LoRA runtime states, short-horizon router statistics.
 
 ---
 
-### 4) Personal × Param × Long → **Semantic Memory**
+### 🚀Personal × Param × Long → **Semantic Memory**
 Knowledge internalized in parameters: pretraining, continual fine-tuning, knowledge editing.  
 **📚 Paper List**
 <!-- PPL:START -->
@@ -105,7 +105,7 @@ Knowledge internalized in parameters: pretraining, continual fine-tuning, knowle
 
 ---
 
-### 5) System × Non-param × Short → **System-level Intermediates**
+### 🚀System × Non-param × Short → **System-level Intermediates**
 Blackboard/workspace artifacts, transient products from distributed planning/search.  
 **📚 Paper List**
 <!-- SNS:START -->
@@ -115,7 +115,7 @@ Blackboard/workspace artifacts, transient products from distributed planning/sea
 
 ---
 
-### 6) System × Non-param × Long → **Knowledge/Skill Bases**
+### 🚀System × Non-param × Long → **Knowledge/Skill Bases**
 RAG/vector stores, knowledge graphs, templates/playbooks, experience repositories & trajectory replay.  
 **📚 Paper List**
 <!-- SNL:START -->
@@ -125,7 +125,7 @@ RAG/vector stores, knowledge graphs, templates/playbooks, experience repositorie
 
 ---
 
-### 7) System × Param × Short → **System-level Inference Caches**
+### 🚀System × Param × Short → **System-level Inference Caches**
 Shared KV/index caches across agents, short-term router/gating states.  
 **📚 Paper List**
 <!-- SPS:START -->
@@ -135,7 +135,7 @@ Shared KV/index caches across agents, short-term router/gating states.
 
 ---
 
-### 8) System × Param × Long → **System-level Parametric Abilities**
+### 🚀System × Param × Long → **System-level Parametric Abilities**
 MoE/routing, distilled long-term skills, system-wide capability pools.  
 **📚 Paper List**
 <!-- SPL:START -->
