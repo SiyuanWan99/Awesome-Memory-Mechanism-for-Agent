@@ -4,9 +4,9 @@ JC: "Anthropic Blog"
 year: 2023
 pdf: "https://www.anthropic.com/index/introducing-claude"
 code: ""
-project: "https://www.anthropic.com"
+project: ""
 quadrant: "personal_nonparam_short"
-Keywords: ["background", "LLM", "alignment"]
+Keywords: ["LLM", "alignment"]
 key_ideas:
   - "Production deployment of Claude; safety/alignment emphasis"
 notes: "Announcement/background post; not a memory-specific method."
