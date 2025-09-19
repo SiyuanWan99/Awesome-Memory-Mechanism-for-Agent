@@ -6,6 +6,6 @@ pdf: "https://arxiv.org/abs/2203.17090"
 code: ""
 project: ""
 quadrant: "personal_nonparam_short"
-Keywords: ["background", "dialogue", "pretraining"]
+Keywords: ["dialogue", "pretraining"]
 key_ideas:
   - "Dialogue-oriented pretraining built on pretrained LMs"
