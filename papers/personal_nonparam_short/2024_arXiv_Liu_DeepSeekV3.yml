@@ -6,7 +6,7 @@ pdf: "https://arxiv.org/abs/2412.19437"
 code: ""
 project: ""
 quadrant: "personal_nonparam_short"
-Keywords: ["background", "LLM", "MoE"]
+Keywords: ["LLM", "MoE"]
 key_ideas:
   - "Large-scale MoE LLM with training/serving optimizations"
 notes: "General model report; background context for memory/agent systems."
