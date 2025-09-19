@@ -64,6 +64,7 @@ Conversation/task-level context, scratchpads, explicit reasoning traces (CoT), t
 | Year | Venue | Title | Key Idea | RS Tags | Links |
 |---|---|---|---|---|---|
 | 2024 | arXiv | DeepSeek-V3 Technical Report | Large-scale MoE LLM with training/serving optimizations | background, LLM, MoE | [PDF](https://arxiv.org/abs/2412.19437) |
+| 2022 | OpenAI Blog | Introducing ChatGPT | Large-scale parametric conversational ability; baseline context for memory discussions | background, LLM | [PDF](https://openai.com/blog/chatgpt) · [Project](https://openai.com/blog/chatgpt) |
 <!-- PNS:END -->
 
 ---
@@ -73,7 +74,6 @@ Cross-session experiences, task logs, reflections/summaries, “episode books.�
 <!-- PNL:START -->
 | Year | Venue | Title | Key Idea | RS Tags | Links |
 |---|---|---|---|---|---|
-| 2022 | OpenAI Blog | Introducing ChatGPT | Large-scale parametric conversational ability; baseline context for memory discussions | background, LLM | [PDF](https://openai.com/blog/chatgpt) · [Project](https://openai.com/blog/chatgpt) |
 <!-- PNL:END -->
 
 ---
