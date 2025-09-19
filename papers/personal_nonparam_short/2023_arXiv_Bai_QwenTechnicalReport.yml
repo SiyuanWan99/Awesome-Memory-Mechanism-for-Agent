@@ -5,7 +5,7 @@ year: 2023
 pdf: "https://arxiv.org/abs/2309.16609"
 code: ""
 project: ""
-quadrant: "system_param_long"
+quadrant: "personal_nonparam_short"
 Keywords: ["background", "LLM", "bilingual"]
 key_ideas:
   - "General-purpose LLM family; pretraining + alignment (SFT/RLHF)"
