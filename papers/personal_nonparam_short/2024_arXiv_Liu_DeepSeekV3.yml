@@ -1,0 +1,12 @@
+title: "DeepSeek-V3 Technical Report"
+authors: ["Liu, Aixin", "et al."]
+venue: "arXiv"
+year: 2024
+pdf: "https://arxiv.org/abs/2412.19437"
+code: ""
+project: ""
+quadrant: "personal_param_long"
+rs_tags: ["background", "LLM", "MoE"]
+key_ideas:
+  - "Large-scale MoE LLM with training/serving optimizations"
+notes: "General model report; background context for memory/agent systems."
