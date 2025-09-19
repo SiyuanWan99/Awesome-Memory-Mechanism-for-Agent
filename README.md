@@ -63,6 +63,7 @@ Conversation/task-level context, scratchpads, explicit reasoning traces (CoT), t
 <!-- PNS:START -->
 | Year | Venue | Title | Key Idea | RS Tags | Links |
 |---|---|---|---|---|---|
+| 2024 | arXiv | DeepSeek-V3 Technical Report | Large-scale MoE LLM with training/serving optimizations | background, LLM, MoE | [PDF](https://arxiv.org/abs/2412.19437) |
 <!-- PNS:END -->
 
 ---
@@ -93,7 +94,6 @@ Knowledge internalized in parameters: pretraining, continual fine-tuning, knowle
 <!-- PPL:START -->
 | Year | Venue | Title | Key Idea | RS Tags | Links |
 |---|---|---|---|---|---|
-| 2024 | arXiv | DeepSeek-V3 Technical Report | Large-scale MoE LLM with training/serving optimizations | background, LLM, MoE | [PDF](https://arxiv.org/abs/2412.19437) |
 <!-- PPL:END -->
 
 ---
