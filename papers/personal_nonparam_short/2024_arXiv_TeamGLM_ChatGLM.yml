@@ -6,6 +6,6 @@ pdf: "https://arxiv.org/abs/2406.12793"
 code: ""
 project: ""
 quadrant: "personal_nonparam_short"
-Keywords: ["background", "LLM", "tools"]
+Keywords: ["LLM", "tools", "Chinese"]
 key_ideas:
   - "GLM model family evolution; tool-augmented capabilities"
