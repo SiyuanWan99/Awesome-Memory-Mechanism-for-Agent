@@ -1,0 +1,11 @@
+title: "Pangu-Bot: Efficient Generative Dialogue Pre-training from Pre-trained Language Model"
+authors: ["Mi, Fei", "et al."]
+JC: "arXiv"
+year: 2022
+pdf: "https://arxiv.org/abs/2203.17090"
+code: ""
+project: ""
+quadrant: "personal_nonparam_short"
+Keywords: ["background", "dialogue", "pretraining"]
+key_ideas:
+  - "Dialogue-oriented pretraining built on pretrained LMs"
