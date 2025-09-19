@@ -61,7 +61,7 @@ If you find this repository helpful, please cite it or star the repo ⭐️.
 Conversation/task-level context, scratchpads, explicit reasoning traces (CoT), temporary notes, planning sketches.  
 **📚 Paper List**
 <!-- PNS:START -->
-| Year | J/C | Title | Key Idea | RS Tags | Links |
+| Year | Venue | Title | Key Idea | RS Tags | Links |
 |---|---|---|---|---|---|
 | 2024 | arXiv | DeepSeek-V3 Technical Report | Large-scale MoE LLM with training/serving optimizations | background, LLM, MoE | [PDF](https://arxiv.org/abs/2412.19437) |
 | 2022 | OpenAI Blog | Introducing ChatGPT | Large-scale parametric conversational ability; baseline context for memory discussions | background, LLM | [PDF](https://openai.com/blog/chatgpt) |
@@ -72,7 +72,7 @@ Conversation/task-level context, scratchpads, explicit reasoning traces (CoT), t
 Cross-session experiences, task logs, reflections/summaries, “episode books.”  
 **📚 Paper List**
 <!-- PNL:START -->
-| Year | J/C | Title | Key Idea | RS Tags | Links |
+| Year | Venue | Title | Key Idea | RS Tags | Links |
 |---|---|---|---|---|---|
 <!-- PNL:END -->
 
@@ -82,7 +82,7 @@ Cross-session experiences, task logs, reflections/summaries, “episode books.�
 KV-cache, adapter/LoRA runtime states, short-horizon router statistics. 
 **📚 Paper List**
 <!-- PPS:START -->
-| Year | J/C | Title | Key Idea | RS Tags | Links |
+| Year | Venue | Title | Key Idea | RS Tags | Links |
 |---|---|---|---|---|---|
 <!-- PPS:END -->
 
@@ -92,7 +92,7 @@ KV-cache, adapter/LoRA runtime states, short-horizon router statistics.
 Knowledge internalized in parameters: pretraining, continual fine-tuning, knowledge editing.  
 **📚 Paper List**
 <!-- PPL:START -->
-| Year | J/C | Title | Key Idea | RS Tags | Links |
+| Year | Venue | Title | Key Idea | RS Tags | Links |
 |---|---|---|---|---|---|
 <!-- PPL:END -->
 
@@ -102,7 +102,7 @@ Knowledge internalized in parameters: pretraining, continual fine-tuning, knowle
 Blackboard/workspace artifacts, transient products from distributed planning/search.  
 **📚 Paper List**
 <!-- SNS:START -->
-| Year | J/C | Title | Key Idea | RS Tags | Links |
+| Year | Venue | Title | Key Idea | RS Tags | Links |
 |---|---|---|---|---|---|
 <!-- SNS:END -->
 
@@ -112,7 +112,7 @@ Blackboard/workspace artifacts, transient products from distributed planning/sea
 RAG/vector stores, knowledge graphs, templates/playbooks, experience repositories & trajectory replay.  
 **📚 Paper List**
 <!-- SNL:START -->
-| Year | J/C | Title | Key Idea | RS Tags | Links |
+| Year | Venue | Title | Key Idea | RS Tags | Links |
 |---|---|---|---|---|---|
 <!-- SNL:END -->
 
@@ -122,7 +122,7 @@ RAG/vector stores, knowledge graphs, templates/playbooks, experience repositorie
 Shared KV/index caches across agents, short-term router/gating states.  
 **📚 Paper List**
 <!-- SPS:START -->
-| Year | J/C | Title | Key Idea | RS Tags | Links |
+| Year | Venue | Title | Key Idea | RS Tags | Links |
 |---|---|---|---|---|---|
 <!-- SPS:END -->
 
@@ -132,7 +132,7 @@ Shared KV/index caches across agents, short-term router/gating states.
 MoE/routing, distilled long-term skills, system-wide capability pools.  
 **📚 Paper List**
 <!-- SPL:START -->
-| Year | J/C | Title | Key Idea | RS Tags | Links |
+| Year | Venue | Title | Key Idea | RS Tags | Links |
 |---|---|---|---|---|---|
 <!-- SPL:END -->
 
