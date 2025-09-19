@@ -39,11 +39,6 @@ This repository is a collection of academic papers, surveys, and implementations
 
 ---
 
-## :sparkles: Example Papers
-- | A Survey on the Memory Mechanism of Large Language Model based Agents | Zeyu Zhang | Renmin University of China | 2024 | Arxiv | Memory-Augmented NN, Agentg | Parametric | [PDF](https://arxiv.org/abs/2404.13501) 
-
----
-
 ## :memo: Citation
 If you find this repository helpful, please cite it or star the repo ⭐️.
 
