@@ -59,98 +59,82 @@ If you find this repository helpful, please cite it or star the repo ⭐️.
 ---
 ### 1) Personal × Non-param × Short → **Working Memory**
 Conversation/task-level context, scratchpads, explicit reasoning traces (CoT), temporary notes, planning sketches.  
+**📚 Paper List**
 <!-- PNS:START -->
 | Year | Venue | Title | Key Idea | RS Tags | Links |
 |---|---|---|---|---|---|
 <!-- PNS:END -->
-**📚 Paper List**
-| Year | Venue | Title | Key Idea | Tags | Links |
-
-
 
 ---
 ### 2) Personal × Non-param × Long → **Episodic Memory**
 Cross-session experiences, task logs, reflections/summaries, “episode books.”  
+**📚 Paper List**
 <!-- PNL:START -->
 | Year | Venue | Title | Key Idea | RS Tags | Links |
 |---|---|---|---|---|---|
 <!-- PNL:END -->
-**📚 Paper List**
-| Year | Venue | Title | Key Idea | Tags | Links |
-
 
 ---
 
 ### 3) Personal × Param × Short → **Inference-time Caches**
-KV-cache, adapter/LoRA runtime states, short-horizon router statistics.  
+KV-cache, adapter/LoRA runtime states, short-horizon router statistics. 
+**📚 Paper List**
 <!-- PPS:START -->
 | Year | Venue | Title | Key Idea | RS Tags | Links |
 |---|---|---|---|---|---|
 <!-- PPS:END -->
-**📚 Paper List**
-| Year | Venue | Title | Key Idea | Tags | Links |
-
 
 ---
 
 ### 4) Personal × Param × Long → **Semantic Memory**
 Knowledge internalized in parameters: pretraining, continual fine-tuning, knowledge editing.  
+**📚 Paper List**
 <!-- PPL:START -->
 | Year | Venue | Title | Key Idea | RS Tags | Links |
 |---|---|---|---|---|---|
 | 2024 | arXiv | DeepSeek-V3 Technical Report | Large-scale MoE LLM with training/serving optimizations | background, LLM, MoE | [PDF](https://arxiv.org/abs/2412.19437) |
 | 2022 | OpenAI Blog | Introducing ChatGPT | Large-scale parametric conversational ability; baseline context for memory discussions | background, LLM | [PDF](https://openai.com/blog/chatgpt) · [Project](https://openai.com/blog/chatgpt) |
 <!-- PPL:END -->
-**📚 Paper List**
-| Year | Venue | Title | Key Idea | Tags | Links |
-
 
 ---
 
 ### 5) System × Non-param × Short → **System-level Intermediates**
 Blackboard/workspace artifacts, transient products from distributed planning/search.  
+**📚 Paper List**
 <!-- SNS:START -->
 | Year | Venue | Title | Key Idea | RS Tags | Links |
 |---|---|---|---|---|---|
 <!-- SNS:END -->
-**📚 Paper List**
-| Year | Venue | Title | Key Idea | Tags | Links |
-
 
 ---
 
 ### 6) System × Non-param × Long → **Knowledge/Skill Bases**
 RAG/vector stores, knowledge graphs, templates/playbooks, experience repositories & trajectory replay.  
+**📚 Paper List**
 <!-- SNL:START -->
 | Year | Venue | Title | Key Idea | RS Tags | Links |
 |---|---|---|---|---|---|
 <!-- SNL:END -->
-**📚 Paper List**
-| Year | Venue | Title | Key Idea | Tags | Links |
-
 
 ---
 
 ### 7) System × Param × Short → **System-level Inference Caches**
 Shared KV/index caches across agents, short-term router/gating states.  
+**📚 Paper List**
 <!-- SPS:START -->
 | Year | Venue | Title | Key Idea | RS Tags | Links |
 |---|---|---|---|---|---|
 <!-- SPS:END -->
-**📚 Paper List**
-| Year | Venue | Title | Key Idea | Tags | Links |
-
 
 ---
 
 ### 8) System × Param × Long → **System-level Parametric Abilities**
 MoE/routing, distilled long-term skills, system-wide capability pools.  
+**📚 Paper List**
 <!-- SPL:START -->
 | Year | Venue | Title | Key Idea | RS Tags | Links |
 |---|---|---|---|---|---|
 <!-- SPL:END -->
-**📚 Paper List**
-| Year | Venue | Title | Key Idea | Tags | Links |
 
 ---
 
