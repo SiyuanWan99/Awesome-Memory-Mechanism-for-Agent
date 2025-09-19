@@ -135,6 +135,7 @@ MoE/routing, distilled long-term skills, system-wide capability pools.
 | Year | JC | Title | Key Idea | Keywords | Links |
 |---|---|---|---|---|---|
 | 2023 | Anthropic Blog | Introducing Claude | Production deployment of Claude; safety/alignment emphasis | background, LLM, alignment | [PDF](https://www.anthropic.com/index/introducing-claude) · [Project](https://www.anthropic.com) |
+| 2023 | arXiv | Llama 2: Open Foundation and Fine-Tuned Chat Models | Open foundation + chat models; strong baseline parametric ability | background, LLM, open-source | [PDF](https://arxiv.org/abs/2307.09288) |
 | 2023 | arXiv | Qwen Technical Report | General-purpose LLM family; pretraining + alignment (SFT/RLHF) | background, LLM, bilingual | [PDF](https://arxiv.org/abs/2309.16609) |
 <!-- SPL:END -->
 
