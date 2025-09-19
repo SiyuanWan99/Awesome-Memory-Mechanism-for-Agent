@@ -1,0 +1,11 @@
+title: "ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools"
+authors: ["Team GLM", "et al."]
+JC: "arXiv"
+year: 2024
+pdf: "https://arxiv.org/abs/2406.12793"
+code: ""
+project: ""
+quadrant: "personal_nonparam_short"
+Keywords: ["background", "LLM", "tools"]
+key_ideas:
+  - "GLM model family evolution; tool-augmented capabilities"
