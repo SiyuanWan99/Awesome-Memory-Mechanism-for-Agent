@@ -68,7 +68,7 @@ Conversation/task-level context, scratchpads, explicit reasoning traces (CoT), t
 | 2023 | arXiv | Gemini: A Family of Highly Capable Multimodal Models | Unified multimodal LLM family; strong parametric capabilities | background, LLM, multimodal | [PDF](https://arxiv.org/abs/2312.11805) |
 | 2023 | Anthropic Blog | Introducing Claude | Production deployment of Claude; safety/alignment emphasis | LLM, alignment | [PDF](https://www.anthropic.com/index/introducing-claude) |
 | 2023 | arXiv | Llama 2: Open Foundation and Fine-Tuned Chat Models | Open foundation + chat models; strong baseline parametric ability | background, LLM, open-source | [PDF](https://arxiv.org/abs/2307.09288) |
-| 2023 | NeurIPS | OpenAssistant Conversations — Democratizing Large Language Model Alignment | Open crowdsourced alignment dataset for chat assistants | alignment, dataset, background | [Code](https://github.com/LAION-AI/Open-Assistant) |
+| 2023 | NeurIPS | OpenAssistant Conversations — Democratizing Large Language Model Alignment | Open crowdsourced alignment dataset for chat assistants | alignment, dataset | [Code](https://github.com/LAION-AI/Open-Assistant) |
 | 2023 | arXiv | Qwen Technical Report | General-purpose LLM family; pretraining + alignment (SFT/RLHF) | background, LLM, bilingual | [PDF](https://arxiv.org/abs/2309.16609) |
 | 2022 | OpenAI | Introducing ChatGPT | Large-scale parametric conversational ability; baseline context for memory discussions | LLM | [PDF](https://openai.com/blog/chatgpt) |
 | 2022 | arXiv | Pangu-Bot: Efficient Generative Dialogue Pre-training from Pre-trained Language Model | Dialogue-oriented pretraining built on pretrained LMs | dialogue, pretraining | [PDF](https://arxiv.org/abs/2203.17090) |
