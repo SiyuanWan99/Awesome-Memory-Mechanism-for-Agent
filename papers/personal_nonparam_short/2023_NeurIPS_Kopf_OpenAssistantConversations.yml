@@ -1,0 +1,12 @@
+title: "OpenAssistant Conversations — Democratizing Large Language Model Alignment"
+authors: ["Köpf, Andreas", "Kilcher, Yannic", "et al."]
+JC: "NeurIPS"
+year: 2023
+pdf: ""
+code: "https://github.com/LAION-AI/Open-Assistant"
+project: ""
+quadrant: "personal_nonparam_short"
+Keywords: ["alignment", "dataset", "background"]
+key_ideas:
+  - "Open crowdsourced alignment dataset for chat assistants"
+notes: "NeurIPS 2023 paper; if you prefer an arXiv link, we can add it."
