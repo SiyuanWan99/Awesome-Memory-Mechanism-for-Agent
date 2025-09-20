@@ -6,6 +6,6 @@ pdf: "https://arxiv.org/abs/2309.16609"
 code: ""
 project: ""
 quadrant: "personal_nonparam_short"
-Keywords: ["background", "LLM", "bilingual"]
+Keywords: ["LLM", "bilingual"]
 key_ideas:
   - "General-purpose LLM family; pretraining + alignment (SFT/RLHF)"
