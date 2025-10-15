@@ -81,9 +81,9 @@ Cross-session experiences, task logs, reflections/summaries, “episode books.�
 <!-- PNL:START -->
 | Year | JC | Title | Key Idea | Keywords | Links |
 |---|---|---|---|---|---|
-| 2025 | arXiv | Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy | GOAP（Goal-Observation-Action Conditioned Policy） |  | [PDF](https://arxiv.org/pdf/2502.19902) · [Project](https://cybertronagent.github.io/Optimus-2.github.io/) |
+| 2025 | arXiv | Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy | GOAP（Goal-Observation-Action Conditioned Policy） |  | [PDF](https://arxiv.org/pdf/2502.19902) |
 | 2025 | arXiv (under review) | Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts | MoE |  | [PDF](https://arxiv.org/pdf/2506.10357) · [Project](https://cybertronagent.github.io/Optimus-3.github.io/) |
-| 2024 | NeurIPS 2024 | Optimus-1: Hybrid Multimodal Memory-Empowered Agents Excel in Long-Horizon Tasks | Hybrid Multimodal Memory |  | [PDF](https://arxiv.org/pdf/2408.03615) · [Project](https://cybertronagent.github.io/Optimus-1.github.io/) |
+| 2024 | NeurIPS 2024 | Optimus-1: Hybrid Multimodal Memory-Empowered Agents Excel in Long-Horizon Tasks | Hybrid Multimodal Memory |  | [PDF](https://arxiv.org/pdf/2408.03615) |
 <!-- PNL:END -->
 
 ---
