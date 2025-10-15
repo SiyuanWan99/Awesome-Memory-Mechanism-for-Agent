@@ -4,8 +4,8 @@ JC: "arXiv (under review)"
 year: 2025
 pdf: "https://arxiv.org/pdf/2506.10357"
 code: ""
-project: "https://cybertronagent.github.io/Optimus-3.github.io/"
-quadrant: "personal_nonparam_long"
+project: ""
+quadrant: "system_nonparam_short"
 keywords: ["generalist agent", "task-level routing MoE", "multimodal reasoning", "RL", "planning", "grounding", "reflection"]
 key_ideas:
   - "MoE"
