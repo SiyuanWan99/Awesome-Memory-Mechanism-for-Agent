@@ -1,0 +1,14 @@
+title: "Optimus-1: Hybrid Multimodal Memory-Empowered Agents Excel in Long-Horizon Tasks"
+authors: ["Zaijing Li", "Yuquan Xie", "Rui Shao", "Gongwei Chen", "Dongmei Jiang", "Liqiang Nie"]
+JC: "NeurIPS 2024"
+year: 2024
+pdf: "https://arxiv.org/pdf/2408.03615"
+code: ""
+project: "https://cybertronagent.github.io/Optimus-1.github.io/"
+quadrant: "personal_nonparam_long"
+keywords: ["Hybrid Multimodal Memory", "HDKG", "AMEP", "planning", "reflection", "Minecraft"]
+key_ideas:
+  - "提出混合多模态记忆（Hybrid Multimodal Memory）：层级有向知识图（HDKG）+ 抽象化多模态经验池（AMEP），分别承载结构化知识与多模态经验。"
+  - "在其之上构建 Optimus-1：Knowledge-Guided Planner + Action Controller + Experience-Driven Reflector，实现长视野任务中的更优规划与反思。"
+  - "在多组长周期任务基准上显著超越现有代理，并对多种 MLLM 主干表现出良好泛化。"
+notes: "强调失败案例也纳入 AMEP 作为 in-context 学习参考；知识检索与经验检索均为非参更新。"
