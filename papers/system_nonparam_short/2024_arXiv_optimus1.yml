@@ -4,7 +4,7 @@ JC: "NeurIPS 2024"
 year: 2024
 pdf: "https://arxiv.org/pdf/2408.03615"
 code: ""
-project: "https://cybertronagent.github.io/Optimus-1.github.io/"
+project: ""
 quadrant: "personal_nonparam_long"
 keywords: ["Hybrid Multimodal Memory", "HDKG", "AMEP", "planning", "reflection", "Minecraft"]
 key_ideas:
