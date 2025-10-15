@@ -6,7 +6,7 @@ pdf: "https://arxiv.org/pdf/2408.03615"
 code: ""
 project: ""
 quadrant: "system_nonparam_short"
-keywords: ["Hybrid Multimodal Memory"]
+Keywords: ["Hybrid Multimodal Memory"]
 key_ideas:
   - "Hybrid Multimodal Memory"
 notes: "强调失败案例也纳入 AMEP 作为 in-context 学习参考；知识检索与经验检索均为非参更新。"
