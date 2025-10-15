@@ -1,0 +1,13 @@
+title: "Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy"
+authors: ["Zaijing Li", "Yuquan Xie", "Rui Shao", "Gongwei Chen", "Dongmei Jiang", "Liqiang Nie"]
+JC: "arXiv"
+year: 2025
+pdf: "https://arxiv.org/pdf/2502.19902"
+code: ""
+project: "https://cybertronagent.github.io/Optimus-2.github.io/"
+quadrant: "personal_nonparam_long"
+keywords: ["GOAP", "Action-guided Behavior Encoder", "MLLM-based Planner", "MGOA dataset", "long-horizon control"]
+key_ideas:
+  - "GOAP（Goal-Observation-Action Conditioned Policy）"
+  - "MGOA Dataset"
+notes: "策略端以 MLLM 对齐语言子目标与行为 token；引入历史聚合器与记忆库以支持长序列。"
