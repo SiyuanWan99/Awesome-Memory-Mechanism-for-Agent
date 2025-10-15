@@ -4,7 +4,7 @@ JC: "arXiv"
 year: 2025
 pdf: "https://arxiv.org/pdf/2502.19902"
 code: ""
-project: "https://cybertronagent.github.io/Optimus-2.github.io/"
+project: ""
 quadrant: "personal_nonparam_long"
 keywords: ["GOAP", "Action-guided Behavior Encoder", "MLLM-based Planner", "MGOA dataset", "long-horizon control"]
 key_ideas:
