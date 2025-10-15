@@ -5,7 +5,7 @@ year: 2024
 pdf: "https://arxiv.org/pdf/2408.03615"
 code: ""
 project: ""
-quadrant: "personal_nonparam_long"
+quadrant: "system_nonparam_short"
 keywords: ["Hybrid Multimodal Memory", "HDKG", "AMEP", "planning", "reflection", "Minecraft"]
 key_ideas:
   - "Hybrid Multimodal Memory"
