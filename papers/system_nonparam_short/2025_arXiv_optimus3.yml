@@ -6,7 +6,7 @@ pdf: "https://arxiv.org/pdf/2506.10357"
 code: ""
 project: ""
 quadrant: "system_nonparam_short"
-keywords: ["generalist agent"]
+Keywords: ["genearlist agent"]
 key_ideas:
   - "MoE"
 notes: "在 Minecraft 多任务上超越通用 MLLMs 与专用代理；在规划、长周期行动、描述、具身问答、定位、反思等多项能力上显著提升。"
