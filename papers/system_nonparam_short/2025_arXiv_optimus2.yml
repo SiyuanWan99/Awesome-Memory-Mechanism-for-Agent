@@ -5,7 +5,7 @@ year: 2025
 pdf: "https://arxiv.org/pdf/2502.19902"
 code: ""
 project: ""
-quadrant: "personal_nonparam_long"
+quadrant: "system_nonparam_short"
 keywords: ["GOAP", "Action-guided Behavior Encoder", "MLLM-based Planner", "MGOA dataset", "long-horizon control"]
 key_ideas:
   - "GOAP（Goal-Observation-Action Conditioned Policy）"
