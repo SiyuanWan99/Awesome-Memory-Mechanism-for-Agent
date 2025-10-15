@@ -81,6 +81,7 @@ Cross-session experiences, task logs, reflections/summaries, “episode books.�
 <!-- PNL:START -->
 | Year | JC | Title | Key Idea | Keywords | Links |
 |---|---|---|---|---|---|
+| 2024 | NeurIPS 2024 | Optimus-1: Hybrid Multimodal Memory-Empowered Agents Excel in Long-Horizon Tasks | 提出混合多模态记忆（Hybrid Multimodal Memory）：层级有向知识图（HDKG）+ 抽象化多模态经验池（AMEP），分别承载结构化知识与多模态经验。 |  | [PDF](https://arxiv.org/pdf/2408.03615) · [Project](https://cybertronagent.github.io/Optimus-1.github.io/) |
 <!-- PNL:END -->
 
 ---
