@@ -113,7 +113,7 @@ Blackboard/workspace artifacts, transient products from distributed planning/sea
 |---|---|---|---|---|---|
 | 2025 | arXiv | Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy | GOAP（Goal-Observation-Action Conditioned Policy）, MGOA Dataset |  | [PDF](https://arxiv.org/pdf/2502.19902) |
 | 2025 | arXiv | Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts | MoE |  | [PDF](https://arxiv.org/pdf/2506.10357) |
-| 2024 | NeurIPS 2024 | Optimus-1: Hybrid Multimodal Memory-Empowered Agents Excel in Long-Horizon Tasks | Hybrid Multimodal Memory |  | [PDF](https://arxiv.org/pdf/2408.03615) |
+| 2024 | NeurIPS 2024 | Optimus-1: Hybrid Multimodal Memory-Empowered Agents Excel in Long-Horizon Tasks | Hybrid Multimodal Memory | Hybrid Multimodal Memory | [PDF](https://arxiv.org/pdf/2408.03615) |
 <!-- SNS:END -->
 
 ---
