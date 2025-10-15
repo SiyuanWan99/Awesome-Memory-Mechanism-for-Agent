@@ -1,0 +1,12 @@
+title: "Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts"
+authors: ["Zaijing Li", "Yuquan Xie", "Rui Shao", "Gongwei Chen", "Weili Guan", "Dongmei Jiang", "Liqiang Nie"]
+JC: "arXiv (under review)"
+year: 2025
+pdf: "https://arxiv.org/pdf/2506.10357"
+code: ""
+project: "https://cybertronagent.github.io/Optimus-3.github.io/"
+quadrant: "personal_nonparam_long"
+keywords: ["generalist agent", "task-level routing MoE", "multimodal reasoning", "RL", "planning", "grounding", "reflection"]
+key_ideas:
+  - "MoE"
+notes: "在 Minecraft 多任务上超越通用 MLLMs 与专用代理；在规划、长周期行动、描述、具身问答、定位、反思等多项能力上显著提升。"
