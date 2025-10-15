@@ -110,7 +110,6 @@ Blackboard/workspace artifacts, transient products from distributed planning/sea
 **📚 Paper List**
 <!-- SNS:START -->
 | Year | JC | Title | Key Idea | Keywords | Links |
-| 2024 | arXiv | Optimus-1: Hybrid Multimodal Memory-Empowered Agents Excel in Long-Horizon Tasks | Hybrid Multimodal Memory | Minecraft, planning, reflection | [PDF](https://arxiv.org/abs/2408.03615) |
 |---|---|---|---|---|---|
 <!-- SNS:END -->
 
