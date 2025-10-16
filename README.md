@@ -76,7 +76,7 @@ Conversation/task-level context, scratchpads, explicit reasoning traces (CoT), t
 
 ---
 ### 🚀Personal × Non-param × Long → **Episodic Memory**
-Cross-session experiences, task logs, reflections/summaries, “episode books.”  
+Cross-session experiences, task logs, reflections/summaries, “episode books.”   
 **📚 Paper List**
 <!-- PNL:START -->
 | Year | JC | Title | Key Idea | Keywords | Links |
