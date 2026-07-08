@@ -1,0 +1,12 @@
+title: "Tree Ring Memory"
+authors: ["TerminallyLazy"]
+JC: "GitHub"
+year: 2026
+pdf: ""
+code: "https://github.com/TerminallyLazy/Tree-Ring-Memory"
+project: ""
+quadrant: "system_nonparam_long"
+Keywords: ["agent memory", "local-first", "lifecycle", "skill base"]
+key_ideas:
+  - "Local-first memory lifecycle layer for AI agents with recall, forgetting, audit, consolidation, and project-scoped skill guidance."
+notes: "Open-source project rather than a dedicated academic paper; suitable for the System × Non-param × Long / Knowledge-Skill Bases category."
