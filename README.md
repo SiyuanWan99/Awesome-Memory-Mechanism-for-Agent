@@ -124,7 +124,6 @@ RAG/vector stores, knowledge graphs, templates/playbooks, experience repositorie
 <!-- SNL:START -->
 | Year | JC | Title | Key Idea | Keywords | Links |
 |---|---|---|---|---|---|
-| 2026 | GitHub | Tree Ring Memory | Local-first memory lifecycle layer for AI agents with recall, forgetting, audit, consolidation, and project-scoped skill guidance. | agent memory, local-first, lifecycle, skill base | [Code](https://github.com/TerminallyLazy/Tree-Ring-Memory) |
 <!-- SNL:END -->
 
 ---
