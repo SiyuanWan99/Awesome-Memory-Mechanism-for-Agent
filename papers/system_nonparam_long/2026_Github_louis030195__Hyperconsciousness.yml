@@ -1,0 +1,12 @@
+title: "Hyperconsciousness"
+authors: ["Louis Beaumont"]
+JC: "GitHub"
+year: 2026
+pdf: ""
+code: "https://github.com/louis030195/hyperconsciousness"
+project: ""
+quadrant: "system_nonparam_long"
+Keywords: ["agent memory", "encrypted knowledge", "MCP", "scoped grants"]
+key_ideas:
+  - "Developer-alpha encrypted, append-only knowledge store with a Rust CLI and MCP server, device sync, and scoped, expiring grants for agent access."
+notes: "MIT-licensed open-source implementation, not an academic paper. Grants limit server responses, not operating-system access; hosted models can see returned plaintext."
